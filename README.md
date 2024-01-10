@@ -1,16 +1,23 @@
 # Привет, меня зовут Дмтирий!
-
----
-
-![snake gif](https://github.com/AlexHunter15/AlexHunter15/blob/output/github-contribution-grid-snake-dark.svg)
-
----
+<div align = center>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="600">
+</div>
 
 ### :man_technologist: Обо мне:
 
 Я начинающий разработчик. Мой путь в it начался со школьных олимпиад по программированию, где я начал изучал языки программирования, такие как PascalABC, C++, Python. Основным языком для меня стал C++. На данный момент я студент 2-го курса Белорусского Государственного Университета, Факультет Прикладной Математики и Информатики, специальность Прикладная Математика.
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DimaKukula-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kukulaDima) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kukulapanda@gmail.com) [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/d_kukula)
+ :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-DimaKukula-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/kukulaDima) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kukulapanda@gmail.com) [![VK Badge](https://img.shields.io/badge/-VK-blue?style=flat&logo=VK&logoColor=white)](https://vk.com/d_kukula)
+
+---
+
+###  👨‍💼 Личные качества:
+
+  - Ответственность и пунктуальность.
+  
+  - Способность к быстрому обучению.
+  
+  - Креативное мышление и умение находить нестандартные решения.
 
 ---
 
@@ -35,6 +42,9 @@ Russian (native), Belarusian, English (B1)
 ---
 
 ### ⚙️ GitHub статистика:
+<div align = center>
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=DmitryKukula&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <table>
   <tr>
@@ -48,5 +58,6 @@ Russian (native), Belarusian, English (B1)
 </table>
 
 ![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmitryKukula&theme=radical)
+</div>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=DmitryKukula)
